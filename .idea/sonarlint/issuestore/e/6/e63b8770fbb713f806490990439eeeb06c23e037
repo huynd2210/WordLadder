@@ -1,0 +1,14 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÎŒ—ó³.
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(’Ïºƒýÿÿÿÿ8€ÜÒó³.
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8¾žºó³.
+Ysquid:UselessImportCheck".Remove this unused import 'org.jgrapht.Graph'.(ŽÌ‘²8¾žºó³.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Ôªàó³.
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ô·¥æ8œËßó³.
+jsquid:UselessImportCheck":Remove this unused import 'org.jgrapht.graph.DefaultEdge'.(á¿Ìªþÿÿÿÿ8¾žºó³.
+Jsquid:S1068",Remove this unused "wordList" private field.(«øæº8Ú¥ßó³.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂÁ€8Ú¥ßó³.
+Wsquid:S1118":Add a private constructor to hide the implicit public one.(ø¿„u8—ýßó³.
+{squid:UselessImportCheck"PRemove this unused import 'com.fasterxml.jackson.databind.JsonMappingException'.(÷™‹Í8ÎŒ—ó³.
+jsquid:UselessImportCheck":Remove this unused import 'org.jgrapht.graph.SimpleGraph'.(Ú¸¯üúÿÿÿÿ8ÎŒ—ó³.
+jsquid:S20956"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‡¶Õ…8ÎŒ—ó³.
