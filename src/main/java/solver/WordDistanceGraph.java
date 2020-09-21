@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class WordDistanceGraph {
-    public WordDistanceGraph(){
+    public WordDistanceGraph() {
 
     }
 
@@ -24,9 +24,9 @@ public class WordDistanceGraph {
         List<String> wordListWithLengthN = wordList.stream()
                 .filter(string -> string.length() == wordLength)
                 .collect(Collectors.toList());
-        for (int i = 0; i < wordListWithLengthN.size() - 1; i++){
-            for (int j = i + 1; j < wordListWithLengthN.size(); j++){
-                if (WordJumpSolver.findSubsitutionDistance(wordListWithLengthN.get(i), wordListWithLengthN.get(j)) == 1){
+        for (int i = 0; i < wordListWithLengthN.size() - 1; i++) {
+            for (int j = i + 1; j < wordListWithLengthN.size(); j++) {
+                if (WordJumpSolver.findSubsitutionDistance(wordListWithLengthN.get(i), wordListWithLengthN.get(j)) == 1) {
                     wordDistanceGraph.addVertex(wordListWithLengthN.get(i));
                     wordDistanceGraph.addVertex(wordListWithLengthN.get(j));
                     wordDistanceGraph.addEdge(wordListWithLengthN.get(i), wordListWithLengthN.get(j));
@@ -42,7 +42,7 @@ public class WordDistanceGraph {
         List<String> mw = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader(new File("wordList.txt")));
         String st;
-        while ((st = br.readLine()) != null){
+        while ((st = br.readLine()) != null) {
             mw.add(st);
         }
         br.close();
