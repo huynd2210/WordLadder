@@ -1,4 +1,7 @@
 
-_squid:UnusedPrivateMethod4".Remove this unused private "writeJSON" method.(˜éÆ»üÿÿÿÿ8 †ß´.
-jsquid:S2095+"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‡¶Õ…8–ğÂó³.
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü´ø8Äö¹ó³.
+i
+java:S2095+"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‡¶Õ…8êÁÁøÎ.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü´ø8êÁÁøÎ.
+P
+java:S11444".Remove this unused private "writeJSON" method.(˜éÆ»üÿÿÿÿ8êÁÁøÎ.

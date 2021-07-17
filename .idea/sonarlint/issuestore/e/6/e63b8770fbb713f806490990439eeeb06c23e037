@@ -1,14 +1,4 @@
 
-[
-squid:S106""9Replace this use of System.out or System.err by a logger.(¥ÓêÊøÿÿÿÿ8ÔÈ£´.
-^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8÷µ¢Ÿ´.
-_squid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8÷µ¢Ÿ´.
-{squid:UselessImportCheck"PRemove this unused import 'com.fasterxml.jackson.databind.JsonMappingException'.(÷™‹Í8÷µ¢Ÿ´.
-Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8÷µ¢Ÿ´.
-Wsquid:S1118":Add a private constructor to hide the implicit public one.(ø¿„u8ñÏ¥Ÿ´.
-bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8÷µ¢Ÿ´.
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êû8ÔÈ£´.
-ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8÷µ¢Ÿ´.
-Ysquid:UselessImportCheck".Remove this unused import 'org.jgrapht.Graph'.(Ì‘²8÷µ¢Ÿ´.
-jsquid:UselessImportCheck
-":Remove this unused import 'org.jgrapht.graph.SimpleGraph'.(Ú¸¯üúÿÿÿÿ8÷µ¢Ÿ´.
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ø¿„u8İÁÁøÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÓêÊøÿÿÿÿ8İÁÁøÎ.
