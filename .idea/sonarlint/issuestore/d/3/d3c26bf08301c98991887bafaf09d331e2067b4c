@@ -1,4 +1,12 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8ÒÁÁøÎ.
 i
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(œû¿Ø8ÒÁÁøÎ.
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(œû¿Ø8ÒÁÁøÎ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8ÒÁÁøÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–Ï‡¶ıÿÿÿÿ8¯¯Œ³«/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒËäš8¯¯Œ³«/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ŸÙ‘»8¶æŒ³«/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(á¡ˆÌûÿÿÿÿ8õ—³«/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şÏÌÇüÿÿÿÿ8×Š³«/
+K
+java:S1659	")Declare "destination" on a separate line.(€ëŞœûÿÿÿÿ8µ’œ³«/
