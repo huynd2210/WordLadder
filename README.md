@@ -1,8 +1,8 @@
-# WordJump
-Solver for the game "Deadword" on appstore 
-https://apps.apple.com/us/app/deadword/id1474926537
+# WordLadder
 
-The Game consists of "moving" to an objectives by linking words together e.g 
+Solver for word game Word Ladder
+
+The game consists of "moving" to an objectives by linking words together e.g 
 Start: DEAD
 Objective: WORD
 Solution: DEAD -> HEAD -> HERD -> HARD -> WARD -> WORD
